@@ -1,0 +1,7 @@
+uvicorn==0.34.0
+fastapi==0.115.11
+pydantic[email]
+PyMuPDF==1.25.4
+python-dotenv==1.0.1
+langchain_openai==0.3.9
+python-multipart==0.0.20

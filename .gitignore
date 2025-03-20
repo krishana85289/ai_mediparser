@@ -126,7 +126,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+**/__pycache__/
+*.rst
 # Environments
 .env
 .venv
@@ -135,7 +136,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.idea/
 # Spyder project settings
 .spyderproject
 .spyproject
